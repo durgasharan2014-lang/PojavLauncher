@@ -1,6 +1,9 @@
-name: Android CI
+[![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/PojavLauncherTeam/PojavLauncher/actions/workflows/android.yml)name: Android CI
 
 on:
+
+
+
   pull_request:
     branches-ignore:
       - 'l10n_v3_openjdk2'
